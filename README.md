@@ -1,27 +1,27 @@
 # Инженер по тестированию
-## О себе
-Меня зовут Алексей, я тестировщик.   
+## 	:raised_hand_with_fingers_splayed: О себе
+Меня зовут Алексей, я тестировщик. До этого много лет работал в области медицины.  
 Тестировал WEB приложения, мобильные приложения. Работал в команде. Владею техниками тест-дизайна, проводил функциональное тестирование,
 тестирование API, тестирование UI/UX, тестирование производительности, тестирование мобильных приложений. Изучаю Python, Selenium. Ниже представлена часть моих реализованных проектов.
 
 ## Навыки и инструменты
-- системы управления тестированием: ``Qase``, ``TestRail``
-- баг-трекинговые системы: ``Jira``
-- тестирование API: ``Postman``, ``Swagger``, ``SoapUI``, ``Mockoon``
-- базы данных и систем управления ими: ``SQL``, ``PostgreSQL``
-- нагрузочное тестирование: ``jMeter``
-- тестирование мобильнвх приложений: ``Charles``, ``Fiddler``
-- системы управления процессами, отчетностью: ``Trello``, ``Slack``, ``Miro``, ``Notion``, ``Confluence``
-- ``Chrome DevTools``
+:heavy_check_mark: системы управления тестированием: ``Qase``, ``TestRail``  
+:heavy_check_mark: баг-трекинговые системы: ``Jira``  
+:heavy_check_mark: тестирование API: ``Postman``, ``Swagger``, ``SoapUI``, ``Mockoon``  
+:heavy_check_mark: базы данных и систем управления ими: ``SQL``, ``PostgreSQL``  
+:heavy_check_mark: нагрузочное тестирование: ``jMeter``  
+:heavy_check_mark: тестирование мобильнвх приложений: ``Charles``, ``Fiddler``  
+:heavy_check_mark: системы управления процессами, отчетностью: ``Trello``, ``Slack``, ``Miro``, ``Notion``, ``Confluence``  
+:heavy_check_mark: ``Chrome DevTools``  
 
 ## Контакты
 <div id="badges">
   <a href="https://linkedin.com/in/alexeyfefelov3010
 ">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/alexfef72">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
   </a>
 </div>
 
