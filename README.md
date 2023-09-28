@@ -8,7 +8,7 @@
 :heavy_check_mark: системы управления тестированием: ``Qase``, ``TestRail``  
 :heavy_check_mark: баг-трекинговые системы: ``Jira``  
 :heavy_check_mark: тестирование API: ``Postman``, ``Swagger``, ``SoapUI``, ``Mockoon``  
-:heavy_check_mark: базы данных и систем управления ими: ``SQL``, ``PostgreSQL``  
+:heavy_check_mark: базы данных и системы управления ими: ``pgAdmin``, ``PostgreSQL``  
 :heavy_check_mark: нагрузочное тестирование: ``jMeter``  
 :heavy_check_mark: тестирование мобильнвх приложений: ``Charles``, ``Fiddler``  
 :heavy_check_mark: системы управления процессами, отчетностью: ``Trello``, ``Slack``, ``Miro``, ``Notion``, ``Confluence``  
