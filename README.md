@@ -26,9 +26,7 @@
 </div>
 
 ## Проекты
-### Тестирование ручки регистрации  
-- Написать позитивные и негативные тест-кейсы для тестирования ручки регистрации через API, используя Postman
-- Как можно проверить данный функционал на сайте  
+### 
 >#### Ссылка на проект:  
-> <https://docs.google.com/spreadsheets/d/1cICi1BIy1PhncJHZGfyVOYXmAdCJixUVQTksXqvdlqA/edit?usp=sharing>
+> <https://
 
