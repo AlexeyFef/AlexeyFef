@@ -28,5 +28,5 @@
 ## Проекты
 ### 
 >#### Ссылка на проект:  
-> <https://github.com/AnvilCoder/CheckpointManager>
+> <https://github.com/AnvilCoder/CheckpointManager> 
 
