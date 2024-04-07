@@ -11,7 +11,7 @@
 :heavy_check_mark: нагрузочное тестирование: ``jMeter``  
 :heavy_check_mark: тестирование мобильных приложений: ``Charles``, ``Fiddler``, ``Android Studio``   
 :heavy_check_mark: системы управления процессами, отчетностью: ``Trello``, ``Slack``, ``Miro``, ``Notion``, ``Confluence``  
-:heavy_check_mark: ``Chrome DevTools``, ``Git``  
+:heavy_check_mark: ``Chrome DevTools``, ``Git``, ``Kibana`` 
 
 ## Контакты
 <div id="badges">
