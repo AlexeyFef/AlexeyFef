@@ -1,17 +1,18 @@
 # Инженер по тестированию
 ## 	:raised_hand_with_fingers_splayed: О себе
-Меня зовут Алексей, я тестировщик. Тестирую WEB приложения, мобильные приложения. Работал как в команде из четырех тестировщиков так и единственным тестировщиком на проекте. Владею и использую различные техники тест-дизайна, провожу функциональное тестирование, Smoke-тестирование, регрессионное тестирование, тестирование API, тестирование UI/UX, кроссбраузерное тестирование, тестирование производительности, тестирование мобильных приложений. Изучаю Python, Selenium. Активно работаю с PostgreSQL (SELECT, GROUP, JOIN), Postman, Grafana
+Меня зовут Алексей, я тестировщик. Тестирую WEB приложения, мобильные, десктоп приложения. Провожу ручное и авто тестирование на Python, используя Playwright, Pytest, Requests. Работал как в команде из четырех тестировщиков так и единственным тестировщиком на проекте. Владею и использую различные техники тест-дизайна, провожу функциональное тестирование, Smoke-тестирование, регрессионное тестирование, тестирование API, тестирование UI/UX, кроссбраузерное тестирование, тестирование производительности, тестирование мобильных приложений.  Активно работаю с PostgreSQL (SELECT, GROUP, JOINx4, WHERE, HAVING), Postman, Kibana.
 Ниже представлена часть моих реализованных проектов.
 
 ## Навыки и инструменты
+:heavy_check_mark: авто тестирование: ``Playwright``, ``Pytest``, ``Requests``, ``Python``  
 :heavy_check_mark: системы управления тестированием: ``Qase``, ``TestRail``  
 :heavy_check_mark: баг-трекинговые системы: ``Jira``  
 :heavy_check_mark: тестирование API: ``Postman``, ``Swagger``, ``SoapUI``, ``Mockoon``  
-:heavy_check_mark: базы данных и системы управления ими: ``pgAdmin``, ``PostgreSQL``  
+:heavy_check_mark: базы данных и системы управления ими: ``pgAdmin``, ``DBeaver``, ``MS SQL``, ``PostgreSQL``  
 :heavy_check_mark: нагрузочное тестирование: ``jMeter``  
-:heavy_check_mark: тестирование мобильных приложений: ``Charles``, ``Fiddler``, ``Android Studio``   
-:heavy_check_mark: системы управления процессами, отчетностью: ``Trello``, ``Slack``, ``Miro``, ``Notion``, ``Confluence``  
-:heavy_check_mark: ``Chrome DevTools``, ``Git``, ``Kibana`` 
+:heavy_check_mark: тестирование мобильных приложений: ``Charles``, ``Fiddler``, ``Proxyman``, ``Android Studio``   
+:heavy_check_mark: системы управления процессами, отчетностью: ``YouTrack``, ``Slack``, ``Miro``, ``Notion``, ``Confluence``  
+:heavy_check_mark: ``Chrome DevTools``, ``Git``, ``Kibana``, ``Sentry`` 
 
 ## Контакты
 <div id="badges">
